@@ -1,0 +1,1 @@
+2012-01-01-2012-01-02.json=https://twitter.com/i/search/timeline?f=tweets&vertical=default&q=from:realDonaldTrump since:2012-01-01 until:2012-01-02
